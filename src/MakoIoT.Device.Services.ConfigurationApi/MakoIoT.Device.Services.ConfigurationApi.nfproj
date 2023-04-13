@@ -38,9 +38,6 @@
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager">
       <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.19.15209\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.DependencyInjection">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.DependencyInjection.1.0.20.23439\lib\MakoIoT.Device.Services.DependencyInjection.dll</HintPath>
-    </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.23.51280\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
     </Reference>
