@@ -1,4 +1,5 @@
-# Project readme
+#  Mako-IoT.Device.Services.ConfigurationApi
+Configuration API
 
 ## How to manually sync fork
 - Clone repository and navigate into folder
