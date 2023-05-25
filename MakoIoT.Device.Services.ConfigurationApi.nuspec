@@ -19,7 +19,7 @@
     <dependencies>
       <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.24.48276" />
       <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.27.36284" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.21.37054" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.24.37837" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.34.44535" />
       <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.26.61682" />
       <dependency id="MakoIoT.Device.Services.Server" version="1.0.27.36126" />
@@ -37,8 +37,8 @@
       <dependency id="nanoFramework.System.Net.Http" version="1.5.84" />
       <dependency id="nanoFramework.System.Text" version="1.2.37" />
       <dependency id="nanoFramework.System.Threading" version="1.1.19" />
-      <dependency id="nanoFramework.Json" version="2.2.84.0" />
-	  <dependency id="nanoFramework.DependencyInjection" version="1.0.22" />
+      <dependency id="nanoFramework.Json" version="2.2.84" />
+      <dependency id="nanoFramework.DependencyInjection" version="1.0.22" />
     </dependencies>
   </metadata>
   <files>
