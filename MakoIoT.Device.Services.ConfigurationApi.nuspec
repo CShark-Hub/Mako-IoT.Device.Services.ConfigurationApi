@@ -17,17 +17,17 @@
     <description>REST API for configuration with MAKO-IoT</description>
     <tags>nanoFramework C# csharp netmf netnf mako-iot configuration rest api wifimanager</tags>
     <dependencies>
-      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.19.62010" />
-      <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.18.35226" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.19.15209" />
-      <dependency id="MakoIoT.Device.Services.Interface" version="1.0.23.51280" />
-      <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.19.20518" />
-      <dependency id="MakoIoT.Device.Services.Server" version="1.0.20.63780" />
-      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.20.42682" />
-      <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.5.47630" />
-      <dependency id="MakoIoT.Device.Utilities.String" version="1.0.17.40951" />
+      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.24.48276" />
+      <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.27.36284" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.21.37054" />
+      <dependency id="MakoIoT.Device.Services.Interface" version="1.0.34.44535" />
+      <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.26.61682" />
+      <dependency id="MakoIoT.Device.Services.Server" version="1.0.27.36126" />
+      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.29.22631" />
+      <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.24.34787" />
+      <dependency id="MakoIoT.Device.Utilities.String" version="1.0.31.17475" />
       <dependency id="nanoFramework.CoreLibrary" version="1.14.2" />
-      <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.174" />
+      <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.284" />
       <dependency id="nanoFramework.Logging" version="1.1.63" />
       <dependency id="nanoFramework.Runtime.Events" version="1.11.6" />
       <dependency id="nanoFramework.System.Collections" version="1.5.18" />
@@ -38,7 +38,7 @@
       <dependency id="nanoFramework.System.Text" version="1.2.37" />
       <dependency id="nanoFramework.System.Threading" version="1.1.19" />
       <dependency id="nanoFramework.Json" version="2.2.84.0" />
-	    <dependency id="nanoFramework.DependencyInjection" version="1.0.22" />
+	  <dependency id="nanoFramework.DependencyInjection" version="1.0.22" />
     </dependencies>
   </metadata>
   <files>
