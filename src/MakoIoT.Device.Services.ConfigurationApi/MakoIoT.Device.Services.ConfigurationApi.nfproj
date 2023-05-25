@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.props" Condition="Exists('..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.props')" />
+  <Import Project="..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.props" Condition="Exists('..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.props')" />
   <PropertyGroup Label="Globals">
     <NanoFrameworkProjectSystemPath>$(MSBuildExtensionsPath)\nanoFramework\v1.0\</NanoFrameworkProjectSystemPath>
   </PropertyGroup>
@@ -25,36 +25,35 @@
     <Compile Include="Extensions\WebServerOptionsExtension.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Iot.Device.DhcpServer, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.174\lib\Iot.Device.DhcpServer.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Iot.Device.DhcpServer, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.284\lib\Iot.Device.DhcpServer.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Configuration">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.19.62010\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.24.48276\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Configuration.Metadata">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.18.35226\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Configuration.Metadata, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.27.36284\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.ConfigurationManager">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.19.15209\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.21.37054\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Interface">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.23.51280\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Interface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.34.44535\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Mediator">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.19.20518\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Mediator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.26.61682\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Server">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.20.63780\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.27.36126\lib\MakoIoT.Device.Services.Server.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.WiFi.AP">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.20.42682\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.29.22631\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Utilities.Invoker">
-      <HintPath>..\..\packages\MakoIoT.Device.Utilities.Invoker.1.0.5.47630\lib\MakoIoT.Device.Utilities.Invoker.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Utilities.Invoker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Utilities.Invoker.1.0.24.34787\lib\MakoIoT.Device.Utilities.Invoker.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Utilities.String">
-      <HintPath>..\..\packages\MakoIoT.Device.Utilities.String.1.0.17.40951\lib\MakoIoT.Device.Utilities.String.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Utilities.String, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MakoIoT.Device.Utilities.String.1.0.31.17475\lib\MakoIoT.Device.Utilities.String.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib, Version=1.14.3.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
       <HintPath>..\..\packages\nanoFramework.CoreLibrary.1.14.2\lib\mscorlib.dll</HintPath>
@@ -119,8 +118,8 @@
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105.The missing file is {0}.</ErrorText>
     </PropertyGroup>
-    <Error Condition="!Exists('..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.props'))" />
-    <Error Condition="!Exists('..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.targets'))" />
+    <Error Condition="!Exists('..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.props'))" />
+    <Error Condition="!Exists('..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets'))" />
   </Target>
-  <Import Project="..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.targets" Condition="Exists('..\..\packages\Nerdbank.GitVersioning.3.5.119\build\Nerdbank.GitVersioning.targets')" />
+  <Import Project="..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets" Condition="Exists('..\..\packages\Nerdbank.GitVersioning.3.6.133\build\Nerdbank.GitVersioning.targets')" />
 </Project>
