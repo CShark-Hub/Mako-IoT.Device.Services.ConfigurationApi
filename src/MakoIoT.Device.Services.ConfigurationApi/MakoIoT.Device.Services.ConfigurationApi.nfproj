@@ -30,14 +30,14 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.25.42009\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.27.26144\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration.Metadata, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.27.36284\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.26.38352\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.27.20191\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -66,8 +66,8 @@
     <Reference Include="nanoFramework.DependencyInjection">
       <HintPath>..\..\packages\nanoFramework.DependencyInjection.1.0.22\lib\nanoFramework.DependencyInjection.dll</HintPath>
     </Reference>
-    <Reference Include="nanoFramework.Json, Version=2.2.84.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\..\packages\nanoFramework.Json.2.2.84\lib\nanoFramework.Json.dll</HintPath>
+    <Reference Include="nanoFramework.Json, Version=2.2.99.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+      <HintPath>..\..\packages\nanoFramework.Json.2.2.99\lib\nanoFramework.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="nanoFramework.Logging, Version=1.1.63.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
