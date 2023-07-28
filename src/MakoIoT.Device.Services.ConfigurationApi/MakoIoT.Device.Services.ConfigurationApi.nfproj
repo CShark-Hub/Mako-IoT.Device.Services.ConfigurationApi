@@ -46,8 +46,9 @@
     <Reference Include="MakoIoT.Device.Services.Mediator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.26.61682\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.27.36126\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.28.2952\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.30.34884\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
