@@ -30,15 +30,15 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.29.64214\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.30.25325\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration.Metadata, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.28.28567\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.30.32136\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.36.60103\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.37.35240\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -46,15 +46,15 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Mediator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.28.51374\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.30.24296\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.31.39521\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.32.43655\lib\MakoIoT.Device.Services.Server.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.31.12836\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.32.65315\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Utilities.Invoker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
