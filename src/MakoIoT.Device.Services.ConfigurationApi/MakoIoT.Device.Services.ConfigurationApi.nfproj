@@ -26,7 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Iot.Device.DhcpServer, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
-      <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.378\lib\Iot.Device.DhcpServer.dll</HintPath>
+      <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.407\lib\Iot.Device.DhcpServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -34,7 +34,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration.Metadata, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.33.15385\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.34.46210\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -50,7 +50,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.36.59884\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.37.51704\lib\MakoIoT.Device.Services.Server.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
