@@ -19,7 +19,7 @@
     <dependencies>
       <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.39.3446" />
       <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.42.54736" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.74.57882" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.75.6799" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.45.4694" />
       <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.39.38843" />
       <dependency id="MakoIoT.Device.Services.Server" version="1.0.50.3036" />
@@ -31,10 +31,10 @@
       <dependency id="nanoFramework.Logging" version="1.1.79" />
       <dependency id="nanoFramework.Runtime.Events" version="1.11.15" />
       <dependency id="nanoFramework.System.Collections" version="1.5.31" />
-      <dependency id="nanoFramework.System.Device.Wifi" version="1.5.74" />
+      <dependency id="nanoFramework.System.Device.Wifi" version="1.5.76" />
       <dependency id="nanoFramework.System.IO.Streams" version="1.1.52" />
-      <dependency id="nanoFramework.System.Net" version="1.10.70" />
-      <dependency id="nanoFramework.System.Net.Http" version="1.5.118" />
+      <dependency id="nanoFramework.System.Net" version="1.10.72" />
+      <dependency id="nanoFramework.System.Net.Http" version="1.5.125" />
       <dependency id="nanoFramework.System.Text" version="1.2.54" />
       <dependency id="nanoFramework.System.Threading" version="1.1.32" />
       <dependency id="nanoFramework.Json" version="2.2.103" />
