@@ -1,18 +1,18 @@
 ﻿using System.Net;
 using MakoIoT.Device.Services.Configuration.Metadata.Services;
+using MakoIoT.Device.Services.Interface;
 using MakoIoT.Device.Services.Server.Extensions;
 using MakoIoT.Device.Services.Server.WebServer;
 using MakoIoT.Device.Utilities.String.Extensions;
-using Microsoft.Extensions.Logging;
 
 namespace MakoIoT.Device.Services.ConfigurationApi.Controllers
 {
     public class ConfigMetadataController
     {
         private readonly IConfigurationMetadataService _metadataService;
-        private readonly ILogger _logger;
+        private readonly ILog _logger;
 
-        public ConfigMetadataController(IConfigurationMetadataService metadataService, ILogger logger)
+        public ConfigMetadataController(IConfigurationMetadataService metadataService, ILog logger)
         {
             _metadataService = metadataService;
             _logger = logger;
@@ -31,7 +31,7 @@ namespace MakoIoT.Device.Services.ConfigurationApi.Controllers
                 return;
             }
 
-            _logger.LogTrace($"{metadata.EscapeForInterpolation()}");
+            _logger.Trace($"{metadata.EscapeForInterpolation()}");
 
             e.Context.Response.ContentType = "application/json";
             e.Context.Response.StatusCode = (int)HttpStatusCode.OK;

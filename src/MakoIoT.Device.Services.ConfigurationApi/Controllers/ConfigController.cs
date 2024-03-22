@@ -6,18 +6,17 @@ using MakoIoT.Device.Services.Interface;
 using MakoIoT.Device.Services.Server.Extensions;
 using MakoIoT.Device.Services.Server.WebServer;
 using MakoIoT.Device.Utilities.String.Extensions;
-using Microsoft.Extensions.Logging;
 using nanoFramework.Json;
 
 namespace MakoIoT.Device.Services.ConfigurationApi.Controllers
 {
     public class ConfigController
     {
-        private readonly ILogger _logger;
+        private readonly ILog _logger;
         private readonly IConfigManager _configManager;
         private readonly IConfigurationService _configService;  
 
-        public ConfigController(ILogger logger, IConfigManager configManager, IConfigurationService configService)
+        public ConfigController(ILog logger, IConfigManager configManager, IConfigurationService configService)
         {
             _logger = logger;
             _configManager = configManager;
@@ -47,7 +46,7 @@ namespace MakoIoT.Device.Services.ConfigurationApi.Controllers
                 return;
             }
 
-            _logger.LogTrace($"{section.EscapeForInterpolation()}");
+            _logger.Trace($"{section.EscapeForInterpolation()}");
 
             e.Context.Response.ContentType = "application/json";
             e.Context.Response.StatusCode = (int)HttpStatusCode.OK;
@@ -63,7 +62,7 @@ namespace MakoIoT.Device.Services.ConfigurationApi.Controllers
             e.Context.Request.InputStream.Read(buffer, 0, buffer.Length);
             string section = Encoding.UTF8.GetString(buffer, 0, buffer.Length);
 
-            _logger.LogTrace($"{section.EscapeForInterpolation()}");
+            _logger.Trace($"{section.EscapeForInterpolation()}");
 
             e.Context.Response.AddCors();
             if (_configService.UpdateConfigSectionString(name, section))
