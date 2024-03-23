@@ -17,13 +17,13 @@
     <description>REST API for configuration with MAKO-IoT</description>
     <tags>nanoFramework C# csharp netmf netnf mako-iot configuration rest api wifimanager</tags>
     <dependencies>
-      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.40.13779" />
-      <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.42.54736" />
+      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.41.11032" />
+      <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.43.32843" />
       <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.81.54242" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.46.2905" />
       <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.41.33870" />
-      <dependency id="MakoIoT.Device.Services.Server" version="1.0.53.21457" />
-      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.56.42901" />
+      <dependency id="MakoIoT.Device.Services.Server" version="1.0.54.13433" />
+      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.57.55012" />
       <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.28.14340" />
       <dependency id="MakoIoT.Device.Utilities.String" version="1.0.33.52014" />
       <dependency id="nanoFramework.CoreLibrary" version="1.15.5" />
