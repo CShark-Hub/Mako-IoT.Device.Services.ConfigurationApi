@@ -17,14 +17,14 @@
     <description>REST API for configuration with MAKO-IoT</description>
     <tags>nanoFramework C# csharp netmf netnf mako-iot configuration rest api wifimanager</tags>
     <dependencies>
-      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.44.911" />
+      <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.46.22575" />
       <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.43.32843" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.94.17660" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.95.11442" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.46.2905" />
-      <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.42.48945" />
-      <dependency id="MakoIoT.Device.Services.Server" version="1.0.58.63423" />
-      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.63.21648" />
-      <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.29.40293" />
+      <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.43.57607" />
+      <dependency id="MakoIoT.Device.Services.Server" version="1.0.59.19469" />
+      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.64.57526" />
+      <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.30.23980" />
       <dependency id="MakoIoT.Device.Utilities.String" version="1.0.33.52014" />
       <dependency id="nanoFramework.CoreLibrary" version="1.15.5" />
       <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.519" />
@@ -36,7 +36,7 @@
       <dependency id="nanoFramework.System.Net.Http" version="1.5.138" />
       <dependency id="nanoFramework.System.Text" version="1.2.54" />
       <dependency id="nanoFramework.System.Threading" version="1.1.32" />
-      <dependency id="nanoFramework.Json" version="2.2.117" />
+      <dependency id="nanoFramework.Json" version="2.2.122" />
       <dependency id="nanoFramework.DependencyInjection" version="1.1.3" />
     </dependencies>
   </metadata>
