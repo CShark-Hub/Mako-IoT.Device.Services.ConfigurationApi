@@ -19,11 +19,11 @@
     <dependencies>
       <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.52.61265" />
       <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.47.39384" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.112.20889" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.113.25683" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.47.44904" />
       <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.48.59964" />
       <dependency id="MakoIoT.Device.Services.Server" version="1.0.67.12547" />
-      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.75.46130" />
+      <dependency id="MakoIoT.Device.Services.WiFi.AP" version="1.0.76.31625" />
       <dependency id="MakoIoT.Device.Utilities.Invoker" version="1.0.34.53288" />
       <dependency id="MakoIoT.Device.Utilities.String" version="1.0.36.61889" />
       <dependency id="nanoFramework.CoreLibrary" version="1.15.5" />
