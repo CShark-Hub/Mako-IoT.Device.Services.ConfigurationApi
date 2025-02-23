@@ -19,7 +19,7 @@
     <dependencies>
       <dependency id="MakoIoT.Device.Services.Configuration" version="1.0.65.14622" />
       <dependency id="MakoIoT.Device.Services.Configuration.Metadata" version="1.0.53.5042" />
-      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.142.19282" />
+      <dependency id="MakoIoT.Device.Services.ConfigurationManager" version="1.0.143.19246" />
       <dependency id="MakoIoT.Device.Services.Interface" version="1.0.50.35966" />
       <dependency id="MakoIoT.Device.Services.Mediator" version="1.0.59.42289" />
       <dependency id="MakoIoT.Device.Services.Server" version="1.0.80.44248" />
