@@ -33,5 +33,10 @@ namespace MakoIoT.Device.Services.ConfigurationApi.Test.Mocks
         {
             throw new System.NotImplementedException();
         }
+
+        public long GetFileSize(string fileName)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
