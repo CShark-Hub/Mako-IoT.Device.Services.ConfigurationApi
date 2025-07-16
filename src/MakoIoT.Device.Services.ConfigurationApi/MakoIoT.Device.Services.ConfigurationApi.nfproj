@@ -40,8 +40,8 @@
     <Reference Include="MakoIoT.Device.Services.Interface">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.56.42770\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.Mediator">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.67.23572\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.Mediator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.68.59455\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Server">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.96.29786\lib\MakoIoT.Device.Services.Server.dll</HintPath>
