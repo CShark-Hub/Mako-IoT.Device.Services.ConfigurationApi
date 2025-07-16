@@ -25,17 +25,17 @@
     <Compile Include="Extensions\WebServerOptionsExtension.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Iot.Device.DhcpServer, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+    <Reference Include="Iot.Device.DhcpServer">
       <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.851\lib\Iot.Device.DhcpServer.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.76.12398\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.77.29527\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration.Metadata">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.60.45099\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.170.14898\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.171.54701\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.56.42770\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
@@ -44,7 +44,7 @@
       <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.67.23572\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Server">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.95.34892\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.96.29786\lib\MakoIoT.Device.Services.Server.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi.AP">
       <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.108.20084\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
@@ -82,7 +82,7 @@
     <Reference Include="System.Net, Version=1.11.43.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
       <HintPath>..\..\packages\nanoFramework.System.Net.1.11.43\lib\System.Net.dll</HintPath>
     </Reference>
-    <Reference Include="System.Net.Http, Version=1.5.196.0, Culture=neutral, PublicKeyToken=c07d481e9758c731">
+    <Reference Include="System.Net.Http">
       <HintPath>..\..\packages\nanoFramework.System.Net.Http.1.5.196\lib\System.Net.Http.dll</HintPath>
     </Reference>
     <Reference Include="System.Threading, Version=1.1.52.34401, Culture=neutral, PublicKeyToken=c07d481e9758c731">
