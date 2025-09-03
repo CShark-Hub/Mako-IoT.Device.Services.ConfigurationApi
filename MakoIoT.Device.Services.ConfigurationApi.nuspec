@@ -32,7 +32,7 @@
       <dependency id="nanoFramework.Json" version="2.2.203" />
       <dependency id="nanoFramework.Runtime.Events" version="1.11.32" />
       <dependency id="nanoFramework.System.Collections" version="1.5.67" />
-      <dependency id="nanoFramework.System.Device.Wifi" version="1.5.133" />
+      <dependency id="nanoFramework.System.Device.Wifi" version="1.5.134" />
       <dependency id="nanoFramework.System.IO.Streams" version="1.1.96" />
       <dependency id="nanoFramework.System.Net" version="1.11.43" />
       <dependency id="nanoFramework.System.Net.Http" version="1.5.196" />
