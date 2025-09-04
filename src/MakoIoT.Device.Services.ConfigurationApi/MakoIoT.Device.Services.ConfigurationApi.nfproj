@@ -35,7 +35,7 @@
       <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.60.45099\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.172.42911\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.173.50582\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.56.42770\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
@@ -46,8 +46,8 @@
     <Reference Include="MakoIoT.Device.Services.Server">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.96.29786\lib\MakoIoT.Device.Services.Server.dll</HintPath>
     </Reference>
-    <Reference Include="MakoIoT.Device.Services.WiFi.AP">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.108.20084\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
+    <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.109.9269\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Utilities.Invoker">
       <HintPath>..\..\packages\MakoIoT.Device.Utilities.Invoker.1.0.48.26874\lib\MakoIoT.Device.Utilities.Invoker.dll</HintPath>
