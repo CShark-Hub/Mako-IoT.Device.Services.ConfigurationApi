@@ -28,7 +28,7 @@
       <dependency id="MakoIoT.Device.Utilities.String" version="1.0.44.38123" />
       <dependency id="nanoFramework.CoreLibrary" version="1.17.11" />
       <dependency id="nanoFramework.DependencyInjection" version="1.1.32" />
-      <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.851" />
+      <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.878" />
       <dependency id="nanoFramework.Json" version="2.2.203" />
       <dependency id="nanoFramework.Runtime.Events" version="1.11.32" />
       <dependency id="nanoFramework.System.Collections" version="1.5.67" />
